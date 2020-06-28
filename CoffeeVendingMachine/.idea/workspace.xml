@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0460bc3-0ff1-4ac4-8a27-85007a05fea2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Ingredients/IngredientTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/io.shubham.coffeemachine">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>io.shubham.coffeemachine</OriginalElement>
+              <nodes>
+                <node x="347.0" y="1423.0">io.shubham.coffeemachine.VendingMachine.CoffeeVendingMachine</node>
+                <node x="337.0" y="1167.0">io.shubham.coffeemachine.VendingMachine.MyThread</node>
+                <node x="0.0" y="1075.0">io.shubham.coffeemachine.Drinks.GreenTea</node>
+                <node x="385.0" y="1075.0">io.shubham.coffeemachine.Drinks.HotCoffee</node>
+                <node x="-83.0" y="1269.0">io.shubham.coffeemachine.Configurations.Configuration</node>
+                <node x="197.99999999999997" y="1075.0">io.shubham.coffeemachine.Drinks.HotTea</node>
+                <node x="298.75" y="888.0">io.shubham.coffeemachine.Drinks.Drink</node>
+                <node x="589.0" y="1075.0">io.shubham.coffeemachine.Drinks.BlackTea</node>
+                <node x="809.0" y="837.0">io.shubham.coffeemachine.Ingredients.Ingredient</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="io.shubham.coffeemachine.Drinks.HotTea" target="io.shubham.coffeemachine.Drinks.Drink">
+                  <point x="0.0" y="-24.5" />
+                  <point x="281.5" y="1055.0" />
+                  <point x="359.125" y="1055.0" />
+                  <point x="-20.125" y="68.5" />
+                </edge>
+                <edge source="io.shubham.coffeemachine.Drinks.HotCoffee" target="io.shubham.coffeemachine.Drinks.Drink">
+                  <point x="0.0" y="-24.5" />
+                  <point x="477.0" y="1055.0" />
+                  <point x="399.375" y="1055.0" />
+                  <point x="20.125" y="68.5" />
+                </edge>
+                <edge source="io.shubham.coffeemachine.Drinks.BlackTea" target="io.shubham.coffeemachine.Drinks.Drink">
+                  <point x="0.0" y="-24.5" />
+                  <point x="676.0" y="1045.0" />
+                  <point x="439.625" y="1045.0" />
+                  <point x="60.375" y="68.5" />
+                </edge>
+                <edge source="io.shubham.coffeemachine.Drinks.GreenTea" target="io.shubham.coffeemachine.Drinks.Drink">
+                  <point x="0.0" y="-24.5" />
+                  <point x="89.0" y="1045.0" />
+                  <point x="318.875" y="1045.0" />
+                  <point x="-60.375" y="68.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.6048667439165701" x="200.3936781609196" y="1223.7816091954023" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/CoffeeVendingMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-427">
+              <caret line="27" column="11" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Ingredients/Ingredient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="114" column="73" selection-start-line="114" selection-start-column="73" selection-end-line="114" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7057#7058#0" expanded="true" />
+                <element signature="e#7175#7176#0" expanded="true" />
+                <element signature="e#7257#7258#0" expanded="true" />
+                <element signature="e#7387#7388#0" expanded="true" />
+                <element signature="e#7461#7462#0" expanded="true" />
+                <element signature="e#7575#7576#0" expanded="true" />
+                <element signature="e#7655#7656#0" expanded="true" />
+                <element signature="e#7781#7782#0" expanded="true" />
+                <element signature="e#7863#7864#0" expanded="true" />
+                <element signature="e#7993#7994#0" expanded="true" />
+                <element signature="e#8081#8082#0" expanded="true" />
+                <element signature="e#8303#8304#0" expanded="true" />
+                <element signature="e#8429#8430#0" expanded="true" />
+                <element signature="e#8515#8516#0" expanded="true" />
+                <element signature="e#8741#8742#0" expanded="true" />
+                <element signature="e#8977#8978#0" expanded="true" />
+                <element signature="e#9202#9203#0" expanded="true" />
+                <element signature="e#9308#9309#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/configuration/low-ingredients-indicator.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/configuration/coffee-machine.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/VendingMachine/CoffeeVendingMachineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/configuration/coffee-machine.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>drink</find>
+      <find>targetex</find>
+      <find>isValidRequest</find>
+      <find>refillIngredients</find>
+      <find>scanner</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/coffee-machine.json" />
+        <option value="$PROJECT_DIR$/src/main/java/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HotCoffee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/BlackTeaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/CoffeeVendingMachineTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/ConfigurationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/DrinkTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/GreenTeaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/HotCoffeeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/HotTeaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/IngredientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/configuration/low-ingredients-indicator.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/configurationFileLocation.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/BlackTea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/GreenTea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/HotCoffee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/HotTea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Ingredient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/BlackTea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/HotCoffee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/CoffeeVendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/DrinkTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/HotCoffeeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/HotTeaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/configuration/invalid-file.json" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Configurations/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Configurations/ConfigurationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/Drink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/HotTea.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/BlackTeaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/GreenTeaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/GreenTea.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/configuration/coffee-machine.json" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Ingredients/Ingredient.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/configuration/low-ingredients-indicator.json" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Ingredients/IngredientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/CoffeeVendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/VendingMachine/CoffeeVendingMachineTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+              <item name="Configurations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+              <item name="Drinks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+              <item name="Ingredients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+              <item name="VendingMachine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+              <item name="Ingredients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coffeemachine" type="462c0819:PsiDirectoryNode" />
+              <item name="VendingMachine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoffeeVendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoffeeVendingMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="io.shubham.coffeemachine.Drinks" />
+      <recent name="io.shubham.coffeemachine.Configurations" />
+      <recent name="io.shubham.coffeemachine.Ingredients" />
+      <recent name="io.shubham.coffeemachine.VendingMachine" />
+      <recent name="io.shubham.coffeemachine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\h102647\IdeaProjects\CoffeeVendingMachine\src\main\resources\configuration" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\h102647\IdeaProjects\CoffeeVendingMachine\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.clean install">
+    <configuration name="CoffeeVendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.shubham.coffeemachine.VendingMachine.CoffeeVendingMachine" />
+      <module name="CoffeeVendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.shubham.coffeemachine.VendingMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoffeeVendingMachineTest.endToEndFunctionalTestCas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoffeeVendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.shubham.coffeemachine.VendingMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.shubham.coffeemachine.VendingMachine" />
+      <option name="MAIN_CLASS_NAME" value="io.shubham.coffeemachine.VendingMachine.CoffeeVendingMachineTest" />
+      <option name="METHOD_NAME" value="endToEndFunctionalTestCas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoffeeVendingMachineTest.testIntegration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoffeeVendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.shubham.coffeemachine.VendingMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.shubham.coffeemachine.VendingMachine" />
+      <option name="MAIN_CLASS_NAME" value="io.shubham.coffeemachine.VendingMachine.CoffeeVendingMachineTest" />
+      <option name="METHOD_NAME" value="testIntegration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreenTeaTest.validate_getters_setters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoffeeVendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.shubham.coffeemachine.Drinks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.shubham.coffeemachine.Drinks" />
+      <option name="MAIN_CLASS_NAME" value="io.shubham.coffeemachine.Drinks.GreenTeaTest" />
+      <option name="METHOD_NAME" value="validate_getters_setters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IngredientTest.shouldIndicateThatTheIngredientsAreLow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoffeeVendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.shubham.coffeemachine.Ingredients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.shubham.coffeemachine.Ingredients" />
+      <option name="MAIN_CLASS_NAME" value="io.shubham.coffeemachine.Ingredients.IngredientTest" />
+      <option name="METHOD_NAME" value="shouldIndicateThatTheIngredientsAreLow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipITs" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CoffeeVendingMachine" />
+      <item itemvalue="JUnit.IngredientTest.shouldIndicateThatTheIngredientsAreLow" />
+      <item itemvalue="JUnit.GreenTeaTest.validate_getters_setters" />
+      <item itemvalue="JUnit.CoffeeVendingMachineTest.testIntegration" />
+      <item itemvalue="Maven.clean install" />
+      <item itemvalue="JUnit.CoffeeVendingMachineTest.endToEndFunctionalTestCas" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CoffeeVendingMachineTest.endToEndFunctionalTestCas" />
+        <item itemvalue="Application.CoffeeVendingMachine" />
+        <item itemvalue="JUnit.IngredientTest.shouldIndicateThatTheIngredientsAreLow" />
+        <item itemvalue="JUnit.CoffeeVendingMachineTest.testIntegration" />
+        <item itemvalue="JUnit.GreenTeaTest.validate_getters_setters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0460bc3-0ff1-4ac4-8a27-85007a05fea2" name="Default Changelist" comment="" />
+      <created>1593284604536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593284604536</updated>
+      <workItem from="1593284609868" duration="36893000" />
+      <workItem from="1593368845134" duration="191000" />
+      <workItem from="1593369108112" duration="102000" />
+      <workItem from="1593369276089" duration="266000" />
+      <workItem from="1593369620129" duration="14344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CoffeeVendingMachineTest_testIntegration - 2020.06.28 at 23h 35m 43s.xml">
+      <configuration name="CoffeeVendingMachineTest.testIntegration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IngredientTest_shouldIndicateThatTheIngredientsAreLow - 2020.06.29 at 03h 13m 01s.xml">
+      <configuration name="IngredientTest.shouldIndicateThatTheIngredientsAreLow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IngredientTest_shouldIndicateThatTheIngredientsAreLow - 2020.06.29 at 03h 48m 09s.xml">
+      <configuration name="IngredientTest.shouldIndicateThatTheIngredientsAreLow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IngredientTest_shouldIndicateThatTheIngredientsAreLow - 2020.06.29 at 03h 48m 50s.xml">
+      <configuration name="IngredientTest.shouldIndicateThatTheIngredientsAreLow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IngredientTest_shouldIndicateThatTheIngredientsAreLow - 2020.06.29 at 03h 49m 18s.xml">
+      <configuration name="IngredientTest.shouldIndicateThatTheIngredientsAreLow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IngredientTest_shouldIndicateThatTheIngredientsAreLow - 2020.06.29 at 03h 49m 48s.xml">
+      <configuration name="IngredientTest.shouldIndicateThatTheIngredientsAreLow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoffeeVendingMachineTest_endToEndFunctionalTestCas - 2020.06.29 at 03h 54m 31s.xml">
+      <configuration name="CoffeeVendingMachineTest.endToEndFunctionalTestCas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoffeeVendingMachineTest_endToEndFunctionalTestCas - 2020.06.29 at 03h 55m 45s.xml">
+      <configuration name="CoffeeVendingMachineTest.endToEndFunctionalTestCas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoffeeVendingMachineTest_endToEndFunctionalTestCas - 2020.06.29 at 04h 03m 35s.xml">
+      <configuration name="CoffeeVendingMachineTest.endToEndFunctionalTestCas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoffeeVendingMachineTest_endToEndFunctionalTestCas - 2020.06.29 at 04h 18m 17s.xml">
+      <configuration name="CoffeeVendingMachineTest.endToEndFunctionalTestCas" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51796000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49668875" visible="true" weight="0.3222672" />
+      <window_info id="Structure" order="1" sideWeight="0.5033113" side_tool="true" weight="0.32362458" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info x="436" y="58" width="407" height="604" id="simpleUML" maximized="true" order="7" type="WINDOWED" weight="0.32928804" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" x="0" y="23" width="1281" height="658" id="Run" maximized="true" order="2" type="WINDOWED" visible="true" weight="0.9502488" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12106136" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3283582" />
+      <window_info anchor="bottom" id="Sequence2" order="13" />
+      <window_info anchor="bottom" id="Stack trace to UML" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="PlantUML" order="9" weight="0.4785425" />
+      <window_info anchor="right" id="UML design tool window" order="10" weight="0.32928804" />
+      <window_info anchor="right" x="0" y="0" width="274" height="536" id="Documentation" order="11" side_tool="true" visible="true" weight="0.32928804" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/GreenTea.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Configurations/Configuration.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Ingredients/Ingredient.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/CoffeeVendingMachine.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Configuration.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="395" column="10" selection-start-line="395" selection-start-column="10" selection-end-line="395" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="509" column="11" selection-start-line="509" selection-start-column="11" selection-end-line="509" selection-end-column="11" />
+          <folding>
+            <element signature="e#17619#17620#0" expanded="true" />
+            <element signature="e#17660#17661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/CoffeeVendingMachineTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/ConfigurationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/DrinkTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/GreenTeaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/HotCoffeeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/HotTeaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/IngredientTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration/low-ingredients-indicator.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/configurationFileLocation.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/BlackTeaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/HotCoffeeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/HotTeaTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#4741#4940#0" expanded="true" />
+            <element signature="e#4939#4940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#728#922#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/configuration/invalid-file.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Configurations/ConfigurationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/HotCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/DrinkTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/BlackTeaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Drinks/GreenTeaTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="179" column="21" selection-start-line="179" selection-start-column="21" selection-end-line="179" selection-end-column="21" />
+          <folding>
+            <element signature="e#6492#6493#0" expanded="true" />
+            <element signature="e#6543#6544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/HotTea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/GreenTea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoffeeVendingMachine.suml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Configurations/Configurations.plantuml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/Drinks.plantuml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/VendingMachine.plantuml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.zen">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer2.zen">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Configurations/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3238#3239#0" expanded="true" />
+            <element signature="e#3276#3277#0" expanded="true" />
+            <element signature="e#3335#3336#0" expanded="true" />
+            <element signature="e#3389#3390#0" expanded="true" />
+            <element signature="e#3446#3447#0" expanded="true" />
+            <element signature="e#3488#3489#0" expanded="true" />
+            <element signature="e#3686#3687#0" expanded="true" />
+            <element signature="e#3726#3727#0" expanded="true" />
+            <element signature="e#3919#3920#0" expanded="true" />
+            <element signature="e#3962#3963#0" expanded="true" />
+            <element signature="e#4166#4167#0" expanded="true" />
+            <element signature="e#4208#4209#0" expanded="true" />
+            <element signature="e#4408#4409#0" expanded="true" />
+            <element signature="e#4450#4451#0" expanded="true" />
+            <element signature="e#4654#4655#0" expanded="true" />
+            <element signature="e#4700#4701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/BlackTea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Drinks/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration/coffee-machine.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/configuration/coffee-machine.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/configuration/low-ingredients-indicator.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/Ingredients/Ingredient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="114" column="73" selection-start-line="114" selection-start-column="73" selection-end-line="114" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7057#7058#0" expanded="true" />
+            <element signature="e#7175#7176#0" expanded="true" />
+            <element signature="e#7257#7258#0" expanded="true" />
+            <element signature="e#7387#7388#0" expanded="true" />
+            <element signature="e#7461#7462#0" expanded="true" />
+            <element signature="e#7575#7576#0" expanded="true" />
+            <element signature="e#7655#7656#0" expanded="true" />
+            <element signature="e#7781#7782#0" expanded="true" />
+            <element signature="e#7863#7864#0" expanded="true" />
+            <element signature="e#7993#7994#0" expanded="true" />
+            <element signature="e#8081#8082#0" expanded="true" />
+            <element signature="e#8303#8304#0" expanded="true" />
+            <element signature="e#8429#8430#0" expanded="true" />
+            <element signature="e#8515#8516#0" expanded="true" />
+            <element signature="e#8741#8742#0" expanded="true" />
+            <element signature="e#8977#8978#0" expanded="true" />
+            <element signature="e#9202#9203#0" expanded="true" />
+            <element signature="e#9308#9309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/io.shubham.coffeemachine">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>io.shubham.coffeemachine</OriginalElement>
+          <nodes>
+            <node x="347.0" y="1423.0">io.shubham.coffeemachine.VendingMachine.CoffeeVendingMachine</node>
+            <node x="337.0" y="1167.0">io.shubham.coffeemachine.VendingMachine.MyThread</node>
+            <node x="0.0" y="1075.0">io.shubham.coffeemachine.Drinks.GreenTea</node>
+            <node x="385.0" y="1075.0">io.shubham.coffeemachine.Drinks.HotCoffee</node>
+            <node x="-83.0" y="1269.0">io.shubham.coffeemachine.Configurations.Configuration</node>
+            <node x="197.99999999999997" y="1075.0">io.shubham.coffeemachine.Drinks.HotTea</node>
+            <node x="298.75" y="888.0">io.shubham.coffeemachine.Drinks.Drink</node>
+            <node x="589.0" y="1075.0">io.shubham.coffeemachine.Drinks.BlackTea</node>
+            <node x="809.0" y="837.0">io.shubham.coffeemachine.Ingredients.Ingredient</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="io.shubham.coffeemachine.Drinks.HotTea" target="io.shubham.coffeemachine.Drinks.Drink">
+              <point x="0.0" y="-24.5" />
+              <point x="281.5" y="1055.0" />
+              <point x="359.125" y="1055.0" />
+              <point x="-20.125" y="68.5" />
+            </edge>
+            <edge source="io.shubham.coffeemachine.Drinks.HotCoffee" target="io.shubham.coffeemachine.Drinks.Drink">
+              <point x="0.0" y="-24.5" />
+              <point x="477.0" y="1055.0" />
+              <point x="399.375" y="1055.0" />
+              <point x="20.125" y="68.5" />
+            </edge>
+            <edge source="io.shubham.coffeemachine.Drinks.BlackTea" target="io.shubham.coffeemachine.Drinks.Drink">
+              <point x="0.0" y="-24.5" />
+              <point x="676.0" y="1045.0" />
+              <point x="439.625" y="1045.0" />
+              <point x="60.375" y="68.5" />
+            </edge>
+            <edge source="io.shubham.coffeemachine.Drinks.GreenTea" target="io.shubham.coffeemachine.Drinks.Drink">
+              <point x="0.0" y="-24.5" />
+              <point x="89.0" y="1045.0" />
+              <point x="318.875" y="1045.0" />
+              <point x="-60.375" y="68.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6048667439165701" x="200.3936781609196" y="1223.7816091954023" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/Ingredients/IngredientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/shubham/coffeemachine/VendingMachine/CoffeeVendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-427">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/shubham/coffeemachine/VendingMachine/CoffeeVendingMachineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CoffeeVendingMachine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
